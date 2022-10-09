@@ -6,16 +6,8 @@ labels: enhancement
 assignees: ''
 ---
 
-## 개요 ⚡️
+## Summary 📝
 
-<br />
-
-## 할일 💻
-
-- [ ]
-
-<br />
-
-## 테스트 ✅
+## To do 💻
 
 - [ ]
